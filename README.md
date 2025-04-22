@@ -1,6 +1,6 @@
 <!-- Introduction avec fond spécial -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Mohammed&fontSize=90&fontAlignY=38&desc=Ingénieur%20en%20Devenir%20|%20Développeur%20Full%20Stack%20|%20Robotique%20Enthusiast&descAlignY=55&descSize=15&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Mohammed&fontSize=90&fontAlignY=38&desc=Développeur%20Full%20Stack%20|%20Passionné%20de%20Robotique&descAlignY=55&descSize=15&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Intro animée -->
@@ -15,22 +15,21 @@
   <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff9933&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ton-username" alt="Profile Stars"/>
   <img src="https://komarev.com/ghpvc/?username=ton-username&label=Visiteurs&color=brightgreen&style=flat-square" alt="Visiteurs"/>
   <img src="https://img.shields.io/github/followers/ton-username?label=Followers&style=social" alt="Followers"/>
-  <a href="https://wakatime.com/@ton-username"><img src="https://wakatime.com/badge/user/ton-username.svg" alt="Total time coded"/></a>
 </p>
 
 <!-- Boutons de contact en 3D -->
 <div align="center">
   <a href="https://linkedin.com/in/ton-profil" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ton-username" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:ton.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://tonportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="website" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -159,15 +158,15 @@
             <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo"/>
             <br/>
             <h3><b>Application de Gestion</b></h3>
-            <p>
-              Système CRUD complet développé avec Laravel, comprenant:
+            <div>
+              <p>Système CRUD complet développé avec Laravel, comprenant:</p>
               <ul align="left">
                 <li>Authentification avec Laravel Breeze</li>
                 <li>Interface utilisateur responsive avec Bootstrap</li>
                 <li>Base de données MySQL optimisée</li>
                 <li>API RESTful pour l'intégration mobile</li>
               </ul>
-            </p>
+            </div>
             <p>
               <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
               <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -179,22 +178,22 @@
         <!-- Projet 2 -->
         <td width="33%" align="center">
           <a href="https://github.com/ton-username/projet-arduino">
-            <img src="https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-vector.svg" width="140" alt="Arduino Logo"/>
+            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="140" alt="Arduino Logo"/>
             <br/>
             <h3><b>Système Robotique M&M</b></h3>
-            <p>
-              Robot autonome basé sur Arduino avec:
+            <div>
+              <p>Robot autonome basé sur Arduino avec:</p>
               <ul align="left">
                 <li>Capteurs de distance et mouvement</li>
                 <li>Contrôle via application mobile</li>
                 <li>Système de navigation autonome</li>
                 <li>Communication Bluetooth</li>
               </ul>
-            </p>
+            </div>
             <p>
               <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
               <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-              <img src="https://img.shields.io/badge/IoT-10AC84?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+              <img src="https://img.shields.io/badge/IoT-10AC84?style=for-the-badge&logo=iot&logoColor=white"/>
             </p>
           </a>
         </td>
@@ -202,18 +201,18 @@
         <!-- Projet 3 -->
         <td width="33%" align="center">
           <a href="https://github.com/ton-username/projet-javafx">
-            <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" width="110" alt="JavaFX Logo"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="110" alt="JavaFX Logo"/>
             <br/>
             <h3><b>Application JavaFX</b></h3>
-            <p>
-              Interface graphique professionnelle avec:
+            <div>
+              <p>Interface graphique professionnelle avec:</p>
               <ul align="left">
                 <li>Authentification sécurisée</li>
                 <li>Système de gestion de données</li>
                 <li>Rapports et exportation PDF</li>
                 <li>Interface utilisateur moderne</li>
               </ul>
-            </p>
+            </div>
             <p>
               <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
               <img src="https://img.shields.io/badge/JDBC-FF6F00?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -238,25 +237,21 @@
     <br/><br/>
     
     <!-- Statistiques et langages côte à côte -->
-    <p align="center">
+    <div>
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&langs_count=7&theme=radical&hide_border=true" />
-    </p>
-    
-    <!-- Graphe des contributions -->
-    <a href="https://github.com/ton-username">
-      <img alt="Mohammed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ton-username&theme=react-dark&hide_border=true&area=true" width="100%">
-    </a>
+    </div>
     
     <br/>
     
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-username&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="70%" />
-    </p>
+    <!-- Streak stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-username&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="70%" />
     
-    <!-- Skyline 3D Contribution -->
-    <a href="https://skyline.github.com/ton-username/2024" title="2024 GitHub Skyline">
-      <img src="https://user-images.githubusercontent.com/6661165/91079503-fb025400-e642-11ea-92b6-ceac68fa2ffd.png" alt="2024 GitHub Skyline" width="50%" />
+    <br/>
+    
+    <!-- Graphe des contributions -->
+    <a href="https://github.com/ton-username">
+      <img alt="Mohammed's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ton-username&theme=react-dark&hide_border=true&area=true" width="100%">
     </a>
   </div>
 </details>
@@ -272,7 +267,7 @@
       <tr>
         <td width="33%">
           <a href="#">
-            <img src="https://img.icons8.com/color/48/000000/laravel.png" width="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="25"/> 
             <strong>Guide Laravel: Authentification avancée</strong>
           </a>
           <br/>
@@ -281,7 +276,7 @@
         </td>
         <td width="33%">
           <a href="#">
-            <img src="https://img.icons8.com/color/48/000000/arduino.png" width="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="25"/> 
             <strong>Projet robotique: Robot suiveur de ligne</strong>
           </a>
           <br/>
@@ -290,7 +285,7 @@
         </td>
         <td width="33%">
           <a href="#">
-            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="25"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> 
             <strong>JavaFX: Créer des interfaces modernes</strong>
           </a>
           <br/>
@@ -391,19 +386,10 @@
 <!-- Animation snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ton-username/ton-username/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ton-username/ton-username/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ton-username/ton-username/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
-<br/>
-
-<!-- Spotify -->
-<div align="center">
-  <a href="https://open.spotify.com/user/ton-username">
-    <img src="https://novatorem-git-master-ton-username.vercel.app/api/spotify" alt="Spotify Now Playing" width="70%" />
-  </a>
 </div>
 
 <br/>
