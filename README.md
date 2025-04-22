@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Mohammed | Ingénieur en Devenir</div>
+# <div align="center">👨‍💻 Mohammed | Etudiant informatique</div>
 
 <div align="center">
   
