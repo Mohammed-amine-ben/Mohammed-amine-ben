@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Building+Web+Applications+%F0%9F%9A%80;Laravel+%7C+Java+Developer+%F0%9F%92%BB;Game+Development+with+Godot+%F0%9F%8E%AE;Always+Learning+%26+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;random=false&amp;width=800&amp;height=100&amp;lines=Building+Web+Applications+%F0%9F%9A%80;Laravel+%7C+Java+Developer+%F0%9F%92%BB;Game+Development+with+Godot+%F0%9F%8E%AE;Always+Learning+%26+Growing+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-amine-ben&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Mohammed-amine-ben?label=Followers&style=for-the-badge&color=6366F1" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-amine-ben&amp;label=Profile%20Views&amp;color=6366F1&amp;style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mohammed-amine-ben?label=Followers&amp;style=for-the-badge&amp;color=6366F1" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-6366F1?style=for-the-badge" alt="Focus" />
 </div>
 
@@ -144,12 +144,12 @@ public class Mohammed {
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-amine-ben&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-amine-ben&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6366F1&amp;icon_color=8B5CF6&amp;text_color=FFFFFF&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-amine-ben&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-amine-ben&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=6366F1&amp;fire=8B5CF6&amp;currStreakLabel=6366F1&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF" alt="GitHub Streak" />
 
 </td>
 </tr>
