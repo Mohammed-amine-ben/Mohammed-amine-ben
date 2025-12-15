@@ -1,141 +1,181 @@
-# 👋 Salut, je suis Mohammed Amine Ben !
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Amine%20Ben&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Étudiant%20en%20Génie%20Informatique%20|%20Full%20Stack%20Developer%20|%20Game%20Dev&descSize=16&descAlignY=51"/>
+</div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Étudiant+en+Génie+Informatique+💻;Développeur+Web+Passionné+🌐;Créateur+de+Jeux+avec+Godot+🎮;Toujours+en+train+d'apprendre+📚)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🚀+Transforming+Ideas+Into+Reality;💻+Building+Web+%26+Game+Experiences;🎯+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 À propos de moi
+---
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> À Propos de Moi
 
 ```javascript
-const etudiant = {
-    nom: "Mohammed Amine Ben",
-    niveau: "3ème année - Cycle d'Ingénierie",
-    localisation: "BERKANE, Maroc 🇲🇦",
-    passions: ["Développement Web", "Game Development", "Open Source"],
-    apprentissage: ["React", "Node.js", "Godot Engine", "DevOps"],
-    objectif: "Créer des expériences numériques innovantes"
+const mohammed = {
+    role: "Étudiant en Génie Informatique",
+    year: "3ème année - Cycle Ingénieur",
+    location: "Berkane, Maroc 🇲🇦",
+    passions: [
+        "Développement Web Full Stack",
+        "Game Development avec Godot",
+        "Open Source Contributions",
+        "Problem Solving"
+    ],
+    currentlyLearning: ["React Ecosystem", "Node.js", "Godot Engine 4"],
+    funFact: "Je code mieux avec un bon café ☕",
+    lifePhilosophy: "Code, Debug, Repeat 🔄"
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 💡 Ce que je fais
-
-- 🌐 **Développement Web** : Création d'applications web modernes et responsives
-- 🎮 **Game Dev** : Développement de jeux 2D/3D avec Godot Engine
-- 📚 **Apprentissage Continu** : Toujours en quête de nouvelles technologies
-- 🔧 **Projets Personnels** : Transformer des idées en réalité
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technologies & Outils
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Stack
 
 <div align="center">
 
-### 💻 Langages de Programmation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-### 🌐 Développement Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### 🎮 Game Development
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### 🗄️ Bases de Données
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
 
-### 🔧 Outils & Plateformes
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Game Development
+<p>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 </div>
 
 ---
 
-## 📊 Statistiques GitHub
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-amine-ben&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-amine-ben&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-amine-ben&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohammed-amine-ben&theme=tokyonight&utcOffset=1" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-amine-ben&custom_title=📊%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-amine-ben&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> Ce que je construis
+
+```ascii
+┌─────────────────────────────────────────────────────┐
+│  🌐 Applications Web Full Stack                     │
+│  • Sites modernes & responsives                     │
+│  • APIs RESTful avec Node.js & Express              │
+│  • Interfaces dynamiques avec React                 │
+│                                                      │
+│  🎮 Jeux avec Godot Engine                          │
+│  • Jeux 2D/3D avec GDScript                         │
+│  • Mécaniques de gameplay innovantes                │
+│  • Physique & animations fluides                    │
+│                                                      │
+│  🔧 Projets Open Source                             │
+│  • Contributions à la communauté                    │
+│  • Partage de connaissances                         │
+│  • Collaboration avec d'autres développeurs         │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="32"> Random Dev Quote
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-amine-ben&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ton-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TON_TWITTER)
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="32"> Show some ❤️ by starring some repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-amine-ben&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+### 💭 *"Code is poetry written in logic"*
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-amine-ben&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-amine-ben&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
-
-</div>
-
----
-
-## 🎯 Projets Récents
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-amine-ben&repo=NOM_PROJET_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/Mohammed-amine-ben/NOM_PROJET_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-amine-ben&repo=NOM_PROJET_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/Mohammed-amine-ben/NOM_PROJET_2)
-
-</div>
-
----
-
-## 🏆 Réalisations
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mohammed-amine-ben&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-amine-ben&custom_title=Graphique%20de%20Contribution&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true)
-
-</div>
-
----
-
-## 💬 Citation du jour
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
----
-
-<div align="center">
-  
-  ### 💡 *"Le code est de la poésie"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-amine-ben&color=blueviolet&style=for-the-badge)
-  
-  ⭐️ N'oubliez pas de mettre une étoile sur mes repos si vous les trouvez intéressants !
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Merci%20de%20votre%20visite!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+  *✨ This README is automatically updated ✨*
 </div>
