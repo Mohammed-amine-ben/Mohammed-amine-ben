@@ -1,4 +1,4 @@
-# 👋 Salut, je suis [Ton Nom] !
+# 👋 Salut, je suis Mohammed Amine Ben !
 
 <div align="center">
   
@@ -8,11 +8,11 @@
 
 ## 🚀 À propos de moi
 
-```typescript
+```javascript
 const etudiant = {
-    nom: "Ton Nom",
+    nom: "Mohammed Amine Ben",
     niveau: "3ème année - Cycle d'Ingénierie",
-    localisation: "Marrakech, Maroc 🇲🇦",
+    localisation: "BERKANE, Maroc 🇲🇦",
     passions: ["Développement Web", "Game Development", "Open Source"],
     apprentissage: ["React", "Node.js", "Godot Engine", "DevOps"],
     objectif: "Créer des expériences numériques innovantes"
@@ -37,7 +37,6 @@ const etudiant = {
 ### 💻 Langages de Programmation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
@@ -52,12 +51,10 @@ const etudiant = {
 
 ### 🎮 Game Development
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🗄️ Bases de Données
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Outils & Plateformes
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,11 +71,11 @@ const etudiant = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-amine-ben&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-amine-ben&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-amine-ben&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
 
 </div>
 
@@ -88,8 +85,8 @@ const etudiant = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=NOM_PROJET_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/TON_USERNAME/NOM_PROJET_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=NOM_PROJET_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/TON_USERNAME/NOM_PROJET_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-amine-ben&repo=NOM_PROJET_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/Mohammed-amine-ben/NOM_PROJET_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-amine-ben&repo=NOM_PROJET_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/Mohammed-amine-ben/NOM_PROJET_2)
 
 </div>
 
@@ -99,7 +96,7 @@ const etudiant = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mohammed-amine-ben&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -109,7 +106,7 @@ const etudiant = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&custom_title=Graphique%20de%20Contribution&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-amine-ben&custom_title=Graphique%20de%20Contribution&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true)
 
 </div>
 
@@ -125,24 +122,13 @@ const etudiant = {
 
 ---
 
-## 🤝 Connectons-nous !
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ton-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TON_TWITTER)
-
-</div>
-
 ---
 
 <div align="center">
   
   ### 💡 *"Le code est de la poésie"*
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=TON_USERNAME&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-amine-ben&color=blueviolet&style=for-the-badge)
   
   ⭐️ N'oubliez pas de mettre une étoile sur mes repos si vous les trouvez intéressants !
 
@@ -151,4 +137,5 @@ const etudiant = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Merci%20de%20votre%20visite!&fontSize=16&fontC
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Merci%20de%20votre%20visite!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+</div>
