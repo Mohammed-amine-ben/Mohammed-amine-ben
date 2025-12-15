@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Amine%20Ben&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20Java%20%7C%20Game%20Dev&descSize=18&descAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Mohammed%20Amine%20Ben&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20Java%20%7C%20Game%20Dev&amp;descSize=18&amp;descAlignY=55"/>
 </div>
 
 <div align="center">
@@ -155,18 +155,18 @@ public class Mohammed {
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-amine-ben&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0D1117&color=6366F1&line=8B5CF6&point=FFFFFF&area_color=6366F1&area=true&hide_border=true&height=300" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-amine-ben&amp;custom_title=📊%20Contribution%20Activity%20Graph&amp;bg_color=0D1117&amp;color=6366F1&amp;line=8B5CF6&amp;point=FFFFFF&amp;area_color=6366F1&amp;area=true&amp;hide_border=true&amp;height=300" />
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-amine-ben&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook,html&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-amine-ben&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6366F1&amp;text_color=FFFFFF&amp;langs_count=10&amp;hide=jupyter%20notebook,html&amp;card_width=400" alt="Top Languages" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammed-amine-ben&theme=radical&hide_border=true" alt="Commit Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammed-amine-ben&amp;theme=radical&amp;hide_border=true" alt="Commit Languages" />
 
 </td>
 </tr>
@@ -182,7 +182,7 @@ public class Mohammed {
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> **GitHub Trophies**
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Mohammed-amine-ben&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10" />
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Mohammed-amine-ben&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;row=2&amp;column=6&amp;margin-w=10&amp;margin-h=10" />
 
 </div>
 
@@ -194,7 +194,7 @@ public class Mohammed {
 
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> **Daily Dev Quote**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical&amp;border=true" alt="Random Dev Quote" />
 
 </div>
 
@@ -239,5 +239,5 @@ public class Mohammed {
 <br>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=28&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=70"/>
 </div>
