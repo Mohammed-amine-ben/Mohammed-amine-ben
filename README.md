@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🚀+Transforming+Ideas+Into+Reality;💻+Building+Web+%26+Game+Experiences;🎯+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🚀+Transforming+Ideas+Into+Reality;💻+Laravel+%26+.NET+Developer;🎮+Godot+Game+Development+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,21 +14,29 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> À Propos de Moi
 
-```javascript
-const mohammed = {
-    role: "Étudiant en Génie Informatique",
-    year: "3ème année - Cycle Ingénieur",
-    location: "Berkane, Maroc 🇲🇦",
-    passions: [
-        "Développement Web Full Stack",
+```csharp
+public class Mohammed {
+    public string Role = "Étudiant en Génie Informatique";
+    public string Year = "3ème année - Cycle Ingénieur";
+    public string Location = "Berkane, Maroc 🇲🇦";
+    
+    public List<string> Passions = new() {
+        "Développement Web avec Laravel",
+        "Applications .NET & C#",
         "Game Development avec Godot",
-        "Open Source Contributions",
-        "Problem Solving"
-    ],
-    currentlyLearning: ["React Ecosystem", "Node.js", "Godot Engine 4"],
-    funFact: "Je code mieux avec un bon café ☕",
-    lifePhilosophy: "Code, Debug, Repeat 🔄"
-};
+        "Architecture Logicielle"
+    };
+    
+    public List<string> CurrentlyLearning = new() {
+        "Laravel Ecosystem",
+        ".NET Core",
+        "Design Patterns",
+        "Godot Engine 4"
+    };
+    
+    public string FunFact = "Je code mieux avec un bon café ☕";
+    public string LifePhilosophy = "Code, Debug, Repeat 🔄";
+}
 ```
 
 <br clear="right"/>
@@ -39,46 +47,57 @@ const mohammed = {
 
 <div align="center">
 
-### Frontend Development
+### Languages de Programmation
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Programming Languages
-<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
 
-### Game Development
+### Frameworks & Technologies
 <p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
 
-### Tools & Technologies
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+
+### Bases de Données
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Game Development
+<p>
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
+
+### Outils & Technologies
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -115,23 +134,47 @@ const mohammed = {
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> Ce que je construis
 
 ```ascii
-┌─────────────────────────────────────────────────────┐
-│  🌐 Applications Web Full Stack                     │
-│  • Sites modernes & responsives                     │
-│  • APIs RESTful avec Node.js & Express              │
-│  • Interfaces dynamiques avec React                 │
-│                                                      │
-│  🎮 Jeux avec Godot Engine                          │
-│  • Jeux 2D/3D avec GDScript                         │
-│  • Mécaniques de gameplay innovantes                │
-│  • Physique & animations fluides                    │
-│                                                      │
-│  🔧 Projets Open Source                             │
-│  • Contributions à la communauté                    │
-│  • Partage de connaissances                         │
-│  • Collaboration avec d'autres développeurs         │
-└─────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════╗
+║  🌐 Applications Web avec Laravel                      ║
+║  • Développement d'APIs RESTful robustes               ║
+║  • Systèmes d'authentification & autorisation          ║
+║  • Architecture MVC & Design Patterns                  ║
+║  • Intégration de paiements & services tiers           ║
+║                                                         ║
+║  💼 Applications .NET & C#                             ║
+║  • Applications Desktop avec WPF/WinForms              ║
+║  • APIs Web avec ASP.NET Core                          ║
+║  • Applications Console & Services Windows             ║
+║  • Entity Framework & LINQ                             ║
+║                                                         ║
+║  🎮 Jeux avec Godot Engine                             ║
+║  • Jeux 2D/3D avec GDScript                            ║
+║  • Systèmes de combat & inventaire                     ║
+║  • Intelligence artificielle pour NPCs                 ║
+║  • Physique & animations fluides                       ║
+║                                                         ║
+║  🔧 Projets Open Source & Contributions                ║
+║  • Partage de code & solutions techniques              ║
+║  • Documentation & tutoriels                           ║
+║  • Collaboration avec la communauté dev                ║
+╚════════════════════════════════════════════════════════╝
 ```
+
+---
+
+## <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="32"> Skills Breakdown
+
+<div align="center">
+
+```text
+Backend Development   ████████████████████░   95%
+Frontend Development  ████████████████░░░░░   80%
+Game Development      ███████████████░░░░░░   75%
+Database Management   ████████████████████░   90%
+DevOps & Deployment   ██████████████░░░░░░░   70%
+```
+
+</div>
 
 ---
 
@@ -142,6 +185,13 @@ const mohammed = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+---
+
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"> Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -160,11 +210,11 @@ const mohammed = {
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="32"> Show some ❤️ by starring some repositories!
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="32"> Show some ❤️ by starring repositories!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-amine-ben&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 💭 *"Code is poetry written in logic"*
+### 💭 *"First, solve the problem. Then, write the code."*
 
 </div>
 
@@ -177,5 +227,5 @@ const mohammed = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
-  *✨ This README is automatically updated ✨*
+  *✨ Passionate about crafting elegant solutions with clean code ✨*
 </div>
