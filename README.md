@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Laravel+%7C+.NET+%7C+C%23+Developer+%F0%9F%92%BB;Game+Development+with+Godot+%F0%9F%8E%AE;Always+Learning+%26+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Laravel+%7C;Game+Development+with+Godot+%F0%9F%8E%AE;Always+Learning+%26+Growing+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
