@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Amine%20Ben&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20.NET%20Expert%20%7C%20Game%20Dev&descSize=18&descAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Amine%20Ben&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20Java%20%7C%20Game%20Dev&descSize=18&descAlignY=55"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Laravel+%7C;Game+Development+with+Godot+%F0%9F%8E%AE;Always+Learning+%26+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Building+Web+Applications+%F0%9F%9A%80;Laravel+%7C+Java+Developer+%F0%9F%92%BB;Game+Development+with+Godot+%F0%9F%8E%AE;Always+Learning+%26+Growing+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,38 +12,42 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-6366F1?style=for-the-badge" alt="Focus" />
 </div>
 
----
+<br>
 
-<table align="center">
+<table align="center" style="border: none;">
 <tr>
 <td width="55%" valign="top">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **About Me**
 
-```csharp
+```java
 public class Mohammed {
-    public string Name = "Mohammed Amine Ben";
-    public string Role = "Software Engineering Student";
-    public string Education = "3rd Year - Engineering Cycle";
-    public string Location = "Berkane, Morocco 🇲🇦";
+    String name = "Mohammed Amine Ben";
+    String role = "Software Engineering Student";
+    String education = "3rd Year - Engineering Cycle";
+    String location = "Berkane, Morocco 🇲🇦";
     
-    public string[] Expertise = {
-        "Backend Development with Laravel & .NET",
-        "Frontend Development with Modern CSS",
-        "Database Design & Optimization",
-        "Game Development with Godot Engine"
+    String[] learning = {
+        "Backend Development with Laravel",
+        "Game Development with Godot",
+        "Object-Oriented Programming with Java",
+        "Web Technologies & Modern CSS"
     };
     
-    public string CurrentFocus = "Building production-ready applications";
-    public string Philosophy = "Clean Code, Best Practices, Continuous Learning";
+    String currentFocus = "Building my skills step by step";
+    String philosophy = "Code, Learn, Improve, Repeat";
 }
 ```
 
+<div align="center">
+
 🎓 **3rd Year Engineering Student**  
-💼 Passionate about **Full Stack Development** and **Software Architecture**  
-🎮 Creating **2D/3D games** with Godot Engine  
-🌱 Currently mastering **Laravel**, **.NET Core**, and **Design Patterns**  
-⚡ Fun fact: **Coffee-driven coder** ☕
+💼 Learning **Full Stack Development**  
+🎮 Creating games with **Godot Engine**  
+🌱 Improving my skills in **Laravel**, **Java**, and **Godot**  
+⚡ **Passionate learner** always exploring new technologies
+
+</div>
 
 </td>
 <td width="45%" valign="top">
@@ -56,42 +60,79 @@ public class Mohammed {
 </tr>
 </table>
 
+<br>
+
 ---
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> **Tech Stack**
-
-<details open>
-<summary><b>🔧 Languages & Frameworks</b></summary>
-<br>
-
-**Backend Development**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,python,cpp,java" />
-
-**Frontend Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
-**Game Development**
-
-<img src="https://skillicons.dev/icons?i=godot" />
-<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,linux" />
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-
-</details>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> **Tech Stack & Skills**
 
 </div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 Currently Learning
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 Studied & Familiar With
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+#### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### 🛠️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br>
 
 ---
 
@@ -133,25 +174,19 @@ public class Mohammed {
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> **Achievements & Trophies**
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> **GitHub Trophies**
 
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Mohammed-amine-ben&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10" />
 
 </div>
 
----
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="28"> **Coding Activity**
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Mohammed_amine_ben&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Coding Time" />
-
-</div>
+<br>
 
 ---
 
@@ -163,9 +198,7 @@ public class Mohammed {
 
 </div>
 
----
-
-
+<br>
 
 ---
 
@@ -173,37 +206,38 @@ public class Mohammed {
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Let's Connect**
 
-<a href="https://linkedin.com/in/TON_PROFIL">
+<a href="https://linkedin.com/in/votre-profil">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:ton.email@example.com">
+<a href="mailto:votre.email@example.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://ton-portfolio.com">
+<a href="https://votre-portfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://twitter.com/TON_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <br><br>
 
-**💬 Feel free to reach out for collaborations or just a friendly chat!**
+**💬 Open to learning opportunities and collaborations!**
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### 💭 *"First, solve the problem. Then, write the code."* — John Johnson
+### 💭 *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
-**✨ Open to collaborations and exciting projects ✨**
+**✨ Learning every day, one commit at a time ✨**
 
 </div>
 
+<br>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 </div>
