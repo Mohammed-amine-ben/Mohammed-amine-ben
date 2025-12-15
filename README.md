@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Amine%20Ben&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Étudiant%20en%20Génie%20Informatique%20|%20Full%20Stack%20Developer%20|%20Game%20Dev&descSize=16&descAlignY=51"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Mohammed%20Amine%20Ben&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20Java%20%7C%20Game%20Dev&amp;descSize=18&amp;descAlignY=55"/>
 </div>
 
 <div align="center">
@@ -68,60 +68,65 @@ public class Mohammed {
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> **Tech Stack & Skills**
 
-</div>
+<br>
 
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-#### 🚀 Currently Learning
+**🚀 Currently Learning**
 
-<div align="center">
+<br>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
-</div>
-
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-#### 📚 Studied & Familiar With
+**📚 Studied & Familiar With**
 
-<div align="center">
+<br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</div>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
 
-#### 🌐 Web Technologies
+**🌐 Web Technologies**
+
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### 🗄️ Databases
+<br>
+
+**🗄️ Databases**
+
+<br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-#### 🛠️ Tools & DevOps
+<br>
+
+**🛠️ Tools & DevOps**
+
+<br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
